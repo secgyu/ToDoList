@@ -1,6 +1,7 @@
 # 📝 React To-Do List App
 
 ## 🌐 배포 링크
+https://to-do-list-pied-nu-42.vercel.app/
 
 ## 🎯 프로젝트 소개
 간단하고 확장 가능한 React 기반 To-Do List 앱입니다. 할 일 추가, 완료 여부 업데이트, 삭제 기능을 제공합니다. 🛠️  
