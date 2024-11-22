@@ -1,8 +1,31 @@
-# React + Vite
+# 📝 React To-Do List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🌐 배포 링크
 
-Currently, two official plugins are available:
+## 🎯 프로젝트 소개
+간단하고 확장 가능한 React 기반 To-Do List 앱입니다. 할 일 추가, 완료 여부 업데이트, 삭제 기능을 제공합니다. 🛠️  
+사용자 친화적인 UI와 효율적인 상태 관리를 통해 작업을 더 편리하게 관리할 수 있습니다. 🚀
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ 주요 기능
+✔️ 할 일 추가
+   - 입력한 내용을 리스트에 반영합니다.
+   - 새로운 ID와 현재 날짜가 자동으로 생성됩니다.
+
+✔️ 완료 여부 업데이트
+   - 클릭 시 완료/미완료 상태를 토글합니다.
+   - 완료된 항목은 별도의 스타일로 표시됩니다.
+
+✔️ 할 일 삭제
+   - 각 항목 옆의 삭제 버튼으로 삭제 가능합니다.
+     
+✔️ 검색 기능
+   - 각 항목에 대해서 검색을 할 수 있습니.
+    
+## 🛠️ 기술 스택
+- React ⚛️ : 컴포넌트 기반 프론트엔드 라이브러리
+- CSS 🎨 : 사용자 인터페이스 스타일링
+
+## 💡 배우게 되는 것
+- useReducer를 사용한 상태 관리 🧠
+- 컴포넌트 기반 설계 및 props를 통한 데이터 전달
+- React로 CRUD(생성, 읽기, 업데이트, 삭제) 기능 구현
